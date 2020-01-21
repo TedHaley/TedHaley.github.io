@@ -1,0 +1,17 @@
+# Site settings
+title: Ted's Website
+description: TED HALEY
+url: "https://tedhaley.github.io/"
+
+# User settings
+username: Ted Haley
+credentials: MDS, B.A.Sc.
+user_description: Hi! My name is Ted, and I'm something of a 'data specialist'; I have a Masters degree in Data Science, and I work professionally as a data engineer and software developer. I like to solve challenging problems that have a real benefit to those it affects.
+email: teddyhaley1@gmail.com
+github_username: https://github.com/TedHaley
+
+# Google-analytics
+google-analytics:
+  id: "UA-121702216-1"
+
+exclude: ['package.json', 'src' , 'node_modules']
